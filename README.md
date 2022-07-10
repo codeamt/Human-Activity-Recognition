@@ -23,6 +23,7 @@ Classes:
 
 
 Training Examples: 7352
+
 Test Examples: 2947
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
