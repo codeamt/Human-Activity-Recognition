@@ -24,3 +24,14 @@ Classes:
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
 A Public Domain Dataset for Human Activity Recognition Using Smartphones. 
 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
+## Training
+
+HAR Model Architecture developed with PyTorch, with 
+a series on convolutional, dropout, and adaptive pooling layers and trained with the Fast.ai (v2) library:
+
+<img src="9DAF9945-70FE-424D-8D2E-86F8E2C8C1BF.jpeg" />
+
+## Inference
+
+88% Accuracy
